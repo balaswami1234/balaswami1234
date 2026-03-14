@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Bala Swami 👋
 
-<!--
-**balaswami1234/balaswami1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring DevOps Engineer passionate about cloud infrastructure, automation, and CI/CD pipelines.
 
-Here are some ideas to get you started:
+## DevOps Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cloud
+- Microsoft Azure
+
+Containers
+- Docker
+- Kubernetes
+
+CI/CD
+- Jenkins
+
+Infrastructure as Code
+- Terraform
+
+Monitoring
+- Prometheus
+- Grafana
+
+Scripting
+- Bash
+
+## Projects
+
+- DevOps CI/CD Pipeline (GitHub → Jenkins → Docker → Kubernetes)
+- Kubernetes Monitoring (Prometheus + Grafana)
+- Terraform Infrastructure Automation
+
+## Contact
+
+Email: balaswamidevops@gmail.com
